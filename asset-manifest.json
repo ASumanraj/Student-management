@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Student-management/static/js/main.6d7cd2f0.js",
+    "main.js": "/Student-management/static/js/main.0b8767f1.js",
     "index.html": "/Student-management/index.html",
-    "main.6d7cd2f0.js.map": "/Student-management/static/js/main.6d7cd2f0.js.map"
+    "main.0b8767f1.js.map": "/Student-management/static/js/main.0b8767f1.js.map"
   },
   "entrypoints": [
-    "static/js/main.6d7cd2f0.js"
+    "static/js/main.0b8767f1.js"
   ]
 }
