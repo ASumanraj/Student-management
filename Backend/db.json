@@ -1,0 +1,32 @@
+{
+  "student": [
+    {
+      "name": "vijay",
+      "email": "muthu@gmail.com",
+      "mobile": 12345678,
+      "city": "bangalore",
+      "id": 1
+    },
+    {
+      "name": "suman",
+      "email": "suman@gmail.com",
+      "mobile": "789456123",
+      "city": "mumbai",
+      "id": 2
+    },
+    {
+      "name": "kishore",
+      "email": "kishore@gmail.com",
+      "mobile": "789456123",
+      "city": "chennai",
+      "id": 4
+    },
+    {
+      "name": "muthu",
+      "email": "muthu@gmail.com",
+      "mobile": 12345678,
+      "city": "bangalore",
+      "id": 5
+    }
+  ]
+}
